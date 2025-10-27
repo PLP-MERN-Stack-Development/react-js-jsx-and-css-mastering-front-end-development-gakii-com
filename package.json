@@ -1,0 +1,20 @@
+{
+  "name": "react-js-jsx-and-css-mastering-front-end-development-gakii-com",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-gakii-com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-gakii-com/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-gakii-com#readme"
+}
